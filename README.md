@@ -80,12 +80,17 @@ We experimented with various **ML & AI models** to predict patient survival outc
 ![Feature Importance](results/feature_importance.png)
 
 
+## 🔮 Future Work & Enhancements
 
-🔮 Future Work & Enhancements
-Hyperparameter tuning: Improve ML model performance using Bayesian Optimization.
-Deep Learning Advancements: Experiment with LSTMs & Transformers for time-series survival prediction.
-Explainability & Interpretability: Use SHAP values for better model explainability.
-Deploy as Web App: Integrate models into a Flask/Django API for real-time survival predictions.
-🎓 Author & Acknowledgments
-👤 Raghul Seerangan | MS Data Science, University of Leeds
-🔗 Dissertation Advisor: Duncan Wilson, Kara-Lousie Royle, Lesley Smith
+- **Hyperparameter tuning:** Improve ML model performance using Bayesian Optimization.  
+- **Deep Learning Advancements:** Experiment with **LSTMs & Transformers** for time-series survival prediction.  
+- **Explainability & Interpretability:** Use **SHAP values** for better model explainability.  
+- **Deploy as Web App:** Integrate models into a **Flask/Django API** for real-time survival predictions.  
+
+---
+
+## 🎓 Author & Acknowledgments
+
+👤 **Raghul Seerangan** | MSc Data Science, *University of Leeds*  
+📧 **Contact:** [Email](mailto:raghulmakeit@gmail.com) 
+🔗 **Dissertation Advisor:** Duncan Wilson, Kara-Lousie Royle, Lesley Smith  
